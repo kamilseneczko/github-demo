@@ -1,6 +1,6 @@
 # github-demo
 
-A simple demo repository course
+A simple demo repository course adding a line fro rebasing example
 
 ## Introduction
 
