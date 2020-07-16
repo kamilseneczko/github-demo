@@ -17,3 +17,5 @@ dodamy se cos
 ## How To Contribute
 
 Git.Training.
+
+new something
