@@ -1,6 +1,6 @@
 # github-demo
 
-A simple demo repository course adding a line fro rebasing example
+A simple demo repository course adding a line fro rebasing example then more changes from my feature branch too
 
 ## Introduction
 
