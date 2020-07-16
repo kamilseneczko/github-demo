@@ -1,2 +1,2 @@
 Test Git quick start demo and additional text awesone
-dodany tekst drugi chlopaczek
+dodany tekst pierwszy chlopaczek
