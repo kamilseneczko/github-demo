@@ -2,4 +2,4 @@ Test Git quick start demo and additional text awesone
 dodany a tu bedzie conflict i cos pozmieniamy na innym branchu
 tekst nowe zmiany przed rebase 2 proba zmiany nowe po rebase pierwszy chlopaczek
 cos tutaj adding changes before rebasing tu jakies zmiany
-i witamy ponownie
+i witamy ponownie i tu cos dodamy
