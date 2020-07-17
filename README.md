@@ -4,7 +4,7 @@ A simple demo repository course adding a line fro rebasing example then more cha
 
 ## Introduction
 
-This is example to show difference between
+This is example to show difference between 
 
 ## Purpose
 
@@ -13,7 +13,7 @@ As stated abouve, the main purpose is to provide simple examples for Git trainin
 ## Deployment
 
 This is a simple web project, deployment can be on any web server or even local file system.
-dodamy se cos
+dodamy tutaj se cos
 ## How To Contribute
 
 Git.Training. All rights reserved.
