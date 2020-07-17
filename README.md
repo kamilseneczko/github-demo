@@ -16,6 +16,6 @@ This is a simple web project, deployment can be on any web server or even local 
 dodamy se cos
 ## How To Contribute
 
-Git.Training.
+Git.Training. All rights reserved.
 
-new something
+new something 
