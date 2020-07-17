@@ -1,6 +1,7 @@
 Test Git quick start demo and additional text awesone
-dodany a tu bedzie conflict i cos pozmieniamy na innym branchu
+section 10 stashing
 tekst nowe zmiany przed rebase 2 proba zmiany nowe po rebase pierwszy chlopaczek
 cos tutaj adding changes before rebasing tu jakies zmiany
+inne zmiany
 i witamy ponownie i tu cos dodamy
 zostawimy i dodamy nowe
