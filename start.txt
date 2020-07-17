@@ -2,6 +2,6 @@ Test Git quick start demo and additional text awesone
 section 10 stashing
 tekst nowe zmiany przed rebase 2 proba zmiany nowe po rebase pierwszy chlopaczek
 cos tutaj adding changes before rebasing tu jakies zmiany
-inne zmiany
+inne zmiany jakies takie
 i witamy ponownie i tu cos dodamy
 zostawimy i dodamy nowe
