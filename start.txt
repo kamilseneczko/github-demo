@@ -1,5 +1,5 @@
 Test Git quick start demo and additional text awesone
-title
+nowy title nowy nowy 
 tekst nowe zmiany przed rebase 2 proba zmiany nowe po rebase pierwszy chlopaczek
 cos tutaj adding changes before rebasing tu jakies zmiany
 inne zmiany jakies takie
