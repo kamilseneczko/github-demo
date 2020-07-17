@@ -1,4 +1,4 @@
 Test Git quick start demo and additional text awesone
 dodany tekst zmiany nowe po rebase pierwszy chlopaczek
 cos tutaj adding changes before rebasing tu jakies zmiany
-i witamy ponownie
+i witamy ponownie witajcie z mastera
